@@ -1,0 +1,66 @@
+1
+00:00:02,133 --> 00:00:02,767
+* [theme]
+
+
+2
+00:00:02,767 --> 00:00:03,767
+>> Dianne: Tonight on a special
+
+
+3
+00:00:03,767 --> 00:00:04,467
+
+>> Dianne: Tonight on a special
+
+
+4
+00:00:04,467 --> 00:00:05,467
+edition of Dragons' Den...
+
+
+5
+00:00:05,467 --> 00:00:06,000
+edition of Dragons' Den...
+
+
+6
+00:00:06,000 --> 00:00:07,000
+The Year of The Dragons.
+
+
+7
+00:00:07,000 --> 00:00:07,300
+
+The Year of The Dragons.
+
+
+8
+00:00:07,300 --> 00:00:08,300
+We followed David...
+
+
+9
+00:00:08,300 --> 00:00:08,467
+
+We followed David...
+
+
+10
+00:00:08,467 --> 00:00:09,467
+>> David: Hey, welcome to
+
+
+11
+00:00:09,467 --> 00:00:09,868
+>> David: Hey, welcome to
+
+
+12
+00:00:09,868 --> 00:00:10,868
+Dave Chilton's house.
+
+
+13
+00:00:10,868 --> 00:00:11,133
+Dave Chilton's house.
